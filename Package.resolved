@@ -12,11 +12,11 @@
       },
       {
         "package": "Starscream",
-        "repositoryURL": "https://github.com/daltoniam/Starscream.git",
+        "repositoryURL": "https://github.com/MalbyApps/Starscream_daltoniam",
         "state": {
-          "branch": null,
-          "revision": "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
-          "version": "4.0.8"
+          "branch": "malby",
+          "revision": "e632a9aeea9cc799ac1c303ccc17a9b26f78e4c6",
+          "version": null
         }
       }
     ]
